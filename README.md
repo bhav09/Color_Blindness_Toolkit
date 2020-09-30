@@ -8,3 +8,5 @@ mnist.h5 : Deep Learning model trained on MNIST dataset to identitfy digits. Ver
 
 ![Test Image 3](https://www.colour-blindness.com/CBTests/ishihara/Plate10.gif)
 <img src="https://github.com/bhav09/Color_Blindness_Toolkit/blob/master/dataset/97.png" width="270" height="270" />
+<img src="https://github.com/bhav09/Color_Blindness_Toolkit/blob/master/dataset/69.png" width="270" height="270" />
+
