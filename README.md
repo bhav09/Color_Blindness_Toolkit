@@ -42,6 +42,8 @@ Cluster.py : To cluster and get a wider view of the picture.
 <img src="https://github.com/bhav09/Color_Blindness_Toolkit/blob/master/dataset/97.png" width="270" height="270" />
 <img src="https://github.com/bhav09/Color_Blindness_Toolkit/blob/master/dataset/69.png" width="270" height="270" />
 
+-------------------------------------------------------------------------------------------------------
+
 ### Features :
 
 * Provides general information on Color Blindness.
@@ -53,3 +55,7 @@ Cluster.py : To cluster and get a wider view of the picture.
 * Predicts the number being displayed in Ishihara Chart.
 
 * Downloads the details of eye doctors in your city.
+
+* Shows a data analysis- report on Color Blindness
+
+* Fathomable GUI
