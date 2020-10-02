@@ -28,6 +28,12 @@ Dataset : Consists of 54 images of Ishihara Charts
 
 mnist.h5 : Deep Learning model trained on MNIST dataset to identitfy digits. Version: Tensorflow 2.2.0
 
+predicting_number.py : For predicting the number being displayed in the Ishihara Chart
+
+Contrast.py : To add contrast to image
+
+Cluster.py : To cluster and get a wider view of the picture.
+
 -------------------------------------------------------------------------------------------------------
 
 ### Examples of Ishihara chart:
