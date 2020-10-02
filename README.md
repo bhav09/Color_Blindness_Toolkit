@@ -8,17 +8,17 @@ What is [Color Blindness?](https://www.aao.org/eye-health/diseases/what-is-color
 
 ### About Dependencies
 
-* Selenium
+* [Selenium](https://selenium-python.readthedocs.io/)
 
-* PIL
+* [PIL](https://pillow.readthedocs.io/)
 
-* Tensorflow
+* [Tensorflow](https://www.tensorflow.org/guide)
 
-* Tkinter
+* [Tkinter](https://docs.python.org/3/library/tkinter.html)
 
-* Pandas
+* [Pandas](https://pandas.pydata.org/docs/)
 
-* Numpy
+* [Numpy](https://numpy.org/doc/)
 
 -------------------------------------------------------------------------------------------------------
 
