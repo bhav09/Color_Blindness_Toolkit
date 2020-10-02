@@ -2,6 +2,8 @@
 
 What is [Color Blindness?](https://www.aao.org/eye-health/diseases/what-is-color-blindness#:~:text=Color%20blindness%20occurs%20when%20you,and%20reds%2C%20and%20occasionally%20blues.)
 
+<img src="https://i.ibb.co/8dYJHjB/colorblindnessinfo.png" width="360"/>
+
 -------------------------------------------------------------------------------------------------------
 
 ### About Dependencies
