@@ -20,6 +20,10 @@ What is [Color Blindness?](https://www.aao.org/eye-health/diseases/what-is-color
 
 * [Numpy](https://numpy.org/doc/)
 
+* [Imutils](https://github.com/jrosebr1/imutils)
+
+* [Skimage](https://scikit-image.org/docs/dev/)
+
 -------------------------------------------------------------------------------------------------------
 
 ### About Files
