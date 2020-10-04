@@ -2,7 +2,8 @@
 
 What is [Color Blindness?](https://www.aao.org/eye-health/diseases/what-is-color-blindness#:~:text=Color%20blindness%20occurs%20when%20you,and%20reds%2C%20and%20occasionally%20blues.)
 
-<img src="https://i.ibb.co/8dYJHjB/colorblindnessinfo.png" width="360"/>
+<img src="https://i.pinimg.com/originals/50/c2/04/50c20412365990eb6c48660da47df644.jpg" width="370"/> <img src="https://i.ibb.co/8dYJHjB/colorblindnessinfo.png" width="380"/>
+
 
 -------------------------------------------------------------------------------------------------------
 
@@ -66,4 +67,4 @@ Cluster.py : To cluster and get a wider view of the picture.
 
 ### GUI :
 
-<img src="https://i.ibb.co/72mbwY7/image.jpg" width="360"/>
+<img src="https://i.ibb.co/72mbwY7/image.jpg" width="760"/>
