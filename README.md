@@ -54,7 +54,7 @@ Cluster.py : To cluster and get a wider view of the picture.
 
 * Records the entry of the patient.
 
-* Takes a tradional test via Ishihara Chart
+* Takes a tradtional test via Ishihara Chart
 
 * Predicts the number being displayed in Ishihara Chart.
 
