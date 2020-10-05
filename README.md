@@ -65,6 +65,8 @@ Cluster.py : To cluster and get a wider view of the picture.
 
 * Fathomable GUI
 
+-------------------------------------------------------------------------------------------------------
+
 ### GUI :
 
 <img src="https://i.ibb.co/72mbwY7/image.jpg" width="760"/>
